@@ -1,0 +1,10 @@
+[
+  "testcases/test_searchflights.py::TestSearchAndVerifyFilter::()::test_search_flights",
+  "testcases/test_searchflights.py::TestSearchAndVerifyFilter::test_search_flights_1___Hyderabad____New_Delhi____Fri_Jul_01_2022____Sat_Jul_02_2022____1_stop__",
+  "testcases/test_searchflights.py::TestSearchAndVerifyFilter::test_search_flights_1____Hyderabad____New_Delhi____Fri_Jul_01_2022____Sat_Jul_02_2022____1_stop______New_Delhi____Hyderabad____Fri_Jul_01_2022____Sat_Jul_02_2022____1_stop___",
+  "testcases/test_searchflights.py::TestSearchAndVerifyFilter::test_search_flights_1_set1",
+  "testcases/test_searchflights.py::TestSearchAndVerifyFilter::test_search_flights_1_test1",
+  "testcases/test_searchflights.py::TestSearchAndVerifyFilter::test_search_flights_2___New_Delhi____Hyderabad____Fri_Jul_01_2022____Sat_Jul_02_2022____1_stop__",
+  "testcases/test_searchflights.py::TestSearchAndVerifyFilter::test_search_flights_2_set2",
+  "testcases/test_searchflights.py::TestSearchAndVerifyFilter::test_search_flights_2_test2"
+]

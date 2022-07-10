@@ -1,0 +1,16 @@
+{
+"test1": {
+  "fromplace": "Hyderabad",
+  "toplace": "New Delhi",
+  "fromdate": "Fri Jul 01 2022",
+  "todate": "Sat Jul 02 2022",
+  "stop": "1 stop"
+},
+"test2": {
+  "fromplace": "New Delhi",
+  "toplace": "Hyderabad",
+  "fromdate": "Fri Jul 01 2022",
+  "todate": "Sat Jul 02 2022",
+  "stop": "1 stop"
+  }
+}

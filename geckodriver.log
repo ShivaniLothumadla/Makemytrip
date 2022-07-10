@@ -1,0 +1,165 @@
+1654963876306	geckodriver	INFO	Listening on 127.0.0.1:49362
+1654963879328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofiled0vSku"
+1654963880308	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofiled0vSku\\search.json.mozlz4", (void 0)))
+1654963884072	Marionette	INFO	Listening on port 49390
+Read port: 49390
+1654963884122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654963917515	Marionette	INFO	Stopped listening on port 49391654963917613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofiletHX67M"
+1654963918279	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofiletHX67M\\search.json.mozlz4", (void 0)))
+1654963922493	Marionette	INFO	Listening on port 49461
+Read port: 49461
+1654963922595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654963926227	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1654963929437	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.makemytrip.com/R-8iXtyEv6t1u/LNUDw0W/eeQMCqI/7Xk3QG4SYD/SjEQAg/ay5zITIj/TWw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654963930208	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.makemytrip.com/R-8iXtyEv6t1u/LNUDw0W/eeQMCqI/7Xk3QG4SYD/SjEQAg/ay5zITIj/TWw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654964021054	Marionette	INFO	Stopped listening on port 49461
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+ts, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofileKHYog0\\search.json.mozlz4", (void 0)))
+1654963978889	Marionette	INFO	Listening on port 49640
+Read port: 49640
+1654963978940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654963982071	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/R-8iXtyEv6t1u/LNUDw0W/eeQMCqI/7Xk3QG4SYD/SjEQAg/ay5zITIj/TWw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654963989140	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654963990086	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.makemytrip.com/R-8iXtyEv6t1u/LNUDw0W/eeQMCqI/7Xk3QG4SYD/SjEQAg/ay5zITIj/TWw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654964022750	Marionette	INFO	Stopped listening on port 49640
+1654964061900	geckodriver	INFO	Listening on 127.0.0.1:50496
+1654964064909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofileibIjpe"
+1654964066083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofileibIjpe\\search.json.mozlz4", (void 0)))
+1654964069768	Marionette	INFO	Listening on port 50629
+Read port: 50629
+1654964069819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.ajio.com/static/assets/vendors~static/chunk/common/libraries/fingerprintjs2.93320040d10b43bc8bff.93320040d10b43bc8bff.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.ajio.com/static/assets/vendors~static/chunk/common/libraries/fingerprintjs2.93320040d10b43bc8bff.93320040d10b43bc8bff.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1656487201767	geckodriver	INFO	Listening on 127.0.0.1:53725
+1656487204784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofilej5rAzH"
+1656487205564	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofilej5rAzH\\search.json.mozlz4", (void 0)))
+1656487207390	Marionette	INFO	Listening on port 53753
+Read port: 53753
+1656487207433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656487208984	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/FW0ObFp_P4Jq/4z/iPqR7zdHE2/ciDEpNptYL/R05geBwNCA/KnBMN/g9OFUY, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656487213448	Marionette	INFO	Stopped listening on port 53753
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1656487318351	geckodriver	INFO	Listening on 127.0.0.1:54085
+1656487321381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofileYaFiL5"
+1656487321830	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofileYaFiL5\\search.json.mozlz4", (void 0)))
+1656487323769	Marionette	INFO	Listening on port 54110
+Read port: 54110
+1656487323830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656487325749	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/FW0ObFp_P4Jq/4z/iPqR7zdHE2/ciDEpNptYL/R05geBwNCA/KnBMN/g9OFUY, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656487330794	Marionette	INFO	Stopped listening on port 54110
+1656487335780	geckodriver	INFO	Listening on 127.0.0.1:54235
+1656487338839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofilekop0OA"
+1656487339242	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofilekop0OA\\search.json.mozlz4", (void 0)))
+1656487341389	Marionette	INFO	Listening on port 54260
+Read port: 54260
+1656487341503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656487344722	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/FW0ObFp_P4Jq/4z/iPqR7zdHE2/ciDEpNptYL/R05geBwNCA/KnBMN/g9OFUY, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656487350094	Marionette	INFO	Stopped listening on port 54260
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656487679501	geckodriver	INFO	Listening on 127.0.0.1:51542
+1656487682524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofileBEsUJc"
+1656487682992	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofileBEsUJc\\search.json.mozlz4", (void 0)))
+1656487684911	Marionette	INFO	Listening on port 51565
+Read port: 51565
+1656487684975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656487688597	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/FW0ObFp_P4Jq/4z/iPqR7zdHE2/ciDEpNptYL/R05geBwNCA/KnBMN/g9OFUY, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656487695227	Marionette	INFO	Stopped listening on port 51565
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 63440, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:725
+1656487699835	geckodriver	INFO	Listening on 127.0.0.1:51631
+1656487702854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofileshwwgr"
+1656487703288	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofileshwwgr\\search.json.mozlz4", (void 0)))
+1656487705994	Marionette	INFO	Listening on port 51660
+Read port: 
+1656487705997	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 51660
+1656487706138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656487709412	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656487712712	Marionette	INFO	Stopped listening on port 51660
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1656487928409	geckodriver	INFO	Listening on 127.0.0.1:52015
+1656487931440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofileAAUzVE"
+1656487931954	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofileAAUzVE\\search.json.mozlz4", (void 0)))
+1656487933870	Marionette	INFO	Listening on port 52038
+Read port: 52038
+1656487934003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656487937250	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/FW0ObFp_P4Jq/4z/iPqR7zdHE2/ciDEpNptYL/R05geBwNCA/KnBMN/g9OFUY, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656487943747	Marionette	INFO	Stopped listening on port 52038
+1656487948602	geckodriver	INFO	Listening on 127.0.0.1:52174
+1656487951626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofile7Oytdi"
+1656487952060	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofile7Oytdi\\search.json.mozlz4", (void 0)))
+1656487954333	Marionette	INFO	Listening on port 52200
+Read port: 52200
+1656487954391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656487957473	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/FW0ObFp_P4Jq/4z/iPqR7zdHE2/ciDEpNptYL/R05geBwNCA/KnBMN/g9OFUY, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656487962583	Marionette	INFO	Stopped listening on port 52200
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+

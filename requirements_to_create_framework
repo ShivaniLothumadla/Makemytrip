@@ -1,0 +1,6 @@
+selenium
+python
+pytest
+openpyxl for data driven testing
+reports(html, allure)
+pytest-xdist(parallel execution)
